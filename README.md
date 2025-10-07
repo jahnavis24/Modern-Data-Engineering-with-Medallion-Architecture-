@@ -15,7 +15,6 @@ Try running the following commands:
 
 
 ## Resources:
-* [Medium Article](https://medium.com/@yusuf.ganiyu/robust-data-pipelines-with-databricks-spark-dbt-and-azure-data-engineering-project-e5780fbc07a6)
 * [DBT](https://docs.getdbt.com/guides)
 * [Databricks](https://docs.databricks.com/)
 * [Azure](https://docs.microsoft.com/en-us/azure/?product=featured)
